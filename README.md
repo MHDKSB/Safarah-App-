@@ -39,4 +39,7 @@ As the user tracks their revision over time the app automatically updates its an
 
 
 **Ver 1.0.0**  
+
+https://github.com/MHDKSB/Safarah-App-/releases/tag/V1.0.0
+
 This version is simply for individuals who would like to download and test the app while also utilizing the useful features it provides, this is not yet the final verison of the application.
