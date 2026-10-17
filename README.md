@@ -25,6 +25,7 @@ once the user ends the revision session, a session report is automatically gener
 
 
 **Mistake Tracking** 
+
 Safarah revolves around tracking your mistakes over time, while revising, the app is designed to track and store your mistakes as you mark them by holding down on the ayah, categorizing ayahs as: 
 - Mistakes 
 - resolved (previously marked ayahs that are unmarked)
