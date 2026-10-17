@@ -5,7 +5,7 @@
 
 Safarah is a completely **OFFLINE** and **FREE** Revision and Memorization Tracker app which allows users who have memorized all or parts of the quran to test their memoirzaton both at the moment and over time using features mentioned below: 
 
-*Memorized Surahs**
+**Memorized Surahs**
 
 upon opening the app, Start by opening the "Memorized Surahs" page either through the quick actions button or throught the  navigation bar at the bottom and select the surahs you have already memorized. 
 
