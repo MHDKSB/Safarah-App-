@@ -32,6 +32,7 @@ Safarah revolves around tracking your mistakes over time, while revising, the ap
 - stubbornness level (ayahs that remain marked over multiple sessions are designated suborness level)
 
 **Memorization Analytics**
+
 As the user tracks their revision over time the app automatically updates its analytics showing the user real time weak points to focus on. 
 
 
